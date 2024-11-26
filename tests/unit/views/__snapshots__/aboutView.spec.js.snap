@@ -5,8 +5,5 @@ exports[`AboutView Coincide con el snapshot 1`] = `
   <h1>
     Vista de About
   </h1>
-  <p>
-    Parrafo de about
-  </p>
 </div>
 `;

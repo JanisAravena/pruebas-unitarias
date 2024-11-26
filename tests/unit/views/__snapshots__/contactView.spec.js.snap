@@ -5,8 +5,5 @@ exports[`ContactView Coincide con el snapshot 1`] = `
   <h1>
     Vista de Contacto
   </h1>
-  <p>
-    Jejeej
-  </p>
 </div>
 `;
